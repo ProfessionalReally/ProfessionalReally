@@ -5,12 +5,12 @@
 <h1 align="left">Hey 👋 I'm Nikita</h1>
 
 ###
-
+<img src="https://komarev.com/ghpvc/?username=professionalreally&abbreviated=true&color=blue" alt="Profile Views" />
 <p align="left">I'm a frontend developer who genuinely enjoys what he does.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Technology</h2>
+<h2 align="left">🛠️ Technology</h2>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -43,9 +43,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"  >
 </div>
 
 ###
+
+<h2 align="left">📊 Statistics</h2>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=professionalreally&theme=github_dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professionalreally&theme=github_dark&layout=compact&langs_count=10" alt="Top Languages" />
+</div>
+
+
+
+
+
+
+
+
